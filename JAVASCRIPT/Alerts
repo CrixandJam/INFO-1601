@@ -1,0 +1,14 @@
+function alertSign-up(){
+    alert("Please do not enter person information here.");
+   }
+
+   function Understanding(){
+     let didConfirm = confirm("Do you understand?");
+     if(didConfirm){
+       alert("You confirmed :)");
+     }else{
+      alert("You did not confirm :(");
+     }
+   }
+
+   
